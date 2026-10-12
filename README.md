@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Developer-IDE-Debugging/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-IDE-Debugging?style=flat-square&logo=github" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Developer-IDE-Debugging/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-IDE-Debugging?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Developer-IDE-Debugging/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Developer-IDE-Debugging?style=flat-square&logo=github" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Developer-IDE-Debugging/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Developer-IDE-Debugging?style=flat-square" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Developer-IDE-Debugging/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Developer-IDE-Debugging?style=flat-square" alt="License" /></a>
@@ -62,9 +62,9 @@ Below is the comparative breakdown of prominent SaaS & hosted platforms, ordered
 
 ## 💻 Open-Source GitHub Projects
 
-The leading open-source repositories for self-hosting cloud IDEs, custom developer environments, and debuggers, sorted by **GitHub Stars (Descending)**:
+The leading open-source repositories for self-hosting cloud IDEs, custom developer environments, and debuggers, sorted by **GitHub_Stars (Descending)**:
 
-| 📦 Repository | ⭐ Stars | ⚖️ License | 📝 Overview & Core Features |
+| 📦 Repository | ⭐ GitHub_Stars | ⚖️ License | 📝 Overview & Core Features |
 | :--- | :---: | :---: | :--- |
 | **[microsoft/vscode](https://github.com/microsoft/vscode)** | [![Stars](https://img.shields.io/github/stars/microsoft/vscode?style=social&color=white)](https://github.com/microsoft/vscode/stargazers) | MIT | De-facto industry standard extensible code editor and IDE platform with native DAP and LSP support. |
 | **[neovim/neovim](https://github.com/neovim/neovim)** | [![Stars](https://img.shields.io/github/stars/neovim/neovim?style=social&color=white)](https://github.com/neovim/neovim/stargazers) | Apache-2.0 | Modern, hyperextensible Vim-fork featuring asynchronous plugins, embedded Lua, and built-in LSP/DAP. |
